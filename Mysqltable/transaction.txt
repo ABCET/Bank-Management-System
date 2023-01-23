@@ -1,17 +1,17 @@
 
- CREATE TABLE Transaction(AccountNo varchar(10) NOT NULL PRIMARY KEY,Createddate Date,WithdrawalAmount integer,DepositedAmount integer,Balance integer);
+CREATE TABLE Transaction(AccountNo varchar(10) NOT NULL PRIMARY KEY,Createddate Date,WithdrawalAmount integer,DepositedAmount integer,Balance integer);
 
- INSERT INTO Transaction values("1028037844","2020-05-15","0","0","150000");
+INSERT INTO Transaction values("1028037844","2020-05-15","0","0","150000");
 
- INSERT INTO Transaction values("1028065421","2020-09-11","0","0","100000");
+INSERT INTO Transaction values("1028065421","2020-09-11","0","0","100000");
 
- INSERT INTO Transaction values("1028042721","2020-08-16","0","0","200000");
+INSERT INTO Transaction values("1028042721","2020-08-16","0","0","200000");
 
- INSERT INTO Transaction values("1028038964","2020-10-10","0","0","75000");
+INSERT INTO Transaction values("1028038964","2020-10-10","0","0","75000");
 
 INSERT INTO Transaction values("1028044341","2020-08-15","0","0","125000");
 
- INSERT INTO Transaction values("1028061516","2020-07-21","0","0","100000");
+INSERT INTO Transaction values("1028061516","2020-07-21","0","0","100000");
 
- INSERT INTO Transaction values("1028033445","2020-06-26","0","0","175000");
+INSERT INTO Transaction values("1028033445","2020-06-26","0","0","175000");
 
