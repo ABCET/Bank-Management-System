@@ -19,3 +19,19 @@ The program invokes calling of following userdefined functions:
     datime()-Used to insert date and time of each activity performed by the user.
     create()-To create new account for new users.
     pr()-To write the date in the csv file.
+
+HARDWARE REQUIREMENTS
+
+1. Processor		: 	Pentium (Any) OR any other            
+2. RAM				:	512MB+
+3. Hard disk		:	40 GB or Above
+4. Monitor 
+5. Key board 
+6. Mouse
+
+SOFTWARE REQUIREMENTS
+
+1.  OS
+2. Python
+3. MySQL
+4. Python MySQL connector
