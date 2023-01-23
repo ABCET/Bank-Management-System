@@ -1,0 +1,16 @@
+CREATE TABLE customer(AccountNo varchar(10) NOT NULL PRIMARY KEY ,AccountName char(25) NOT NULL, PhoneNo varchar(10) NOT NULL ,Emailid varchar(30) NOT NULL, Address varchar(50) NOT NULL, AadharNo varchar(12) NOT NULL  unique);
+
+INSERT INTO customer values("1028000001","Ramsharma","8574632173","ram46@gmail.com","Achanaril,SnehaNagar,Tholicode,Kollam","320606513782");
+
+INSERT INTO customer values("1028000002","Rohitraj","9606345721","raj1993@gmail.com","SreeShylam,GandhiNagar,Karavalur,Kollam","450323017849");
+
+INSERT INTO customer values("1028000003","Ankitpatel","7606543271","ankitpatel30@gmail.com","PatelBhavan,Venchembu,Mathra,Kollam","563442063132");
+
+INSERT INTO customer values("1028000004","Johnpeter","9846592321","peterrock@gmail.com","KripaBhavan,GovindNagar,Kuthrichara,Kollam","405457623721");
+
+INSERT INTO customer values("1028000005","Davidluke","9827651123","lukeonfire@gmail.com","Lovedale,Sivankovil,Maniyar,Kollam","420638712112");
+
+INSERT INTO customer values("1028000006","Samthomas","8864133254","sampeter@gmail.com","Anugraha,PattazhiStreet,Tholicodu,Kollam","575344216032");
+
+INSERT INTO customer values("1028000007","Susangeorge","7565489270","susangeorge@gmail.com","GraceVilla,Vattaman,Kunnicodu,Kollam","585266027832");
+

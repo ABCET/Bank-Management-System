@@ -1,0 +1,31 @@
+Create database bank;
+
+use bank;
+
+ CREATE TABLE user(Username char(25) NOT NULL PRIMARY KEY,Password varchar(20) NOT NULL unique);
+
+ INSERT INTO user values('Ramsharma','Ram4521');
+
+
+ INSERT INTO user values('Rohitraj','Raj656');
+
+
+ INSERT INTO user values('Ankitpatel','Patel@37');
+
+
+ INSERT INTO user values('Johnpeter','John$3311');
+
+
+INSERT INTO user values('David Luke','luke2421');
+
+
+ INSERT INTO user values('Samthomas','Sam1634');
+
+
+ INSERT INTO user values('Susangeorge','Geo@25');
+
+
+ 
+
+
+   
